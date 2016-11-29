@@ -1,0 +1,23 @@
+{
+  "name": "node_knex01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thcmm/node_knex01.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thcmm/node_knex01/issues"
+  },
+  "homepage": "https://github.com/thcmm/node_knex01#readme",
+  "dependencies": {
+    "knex": "^0.12.6",
+    "pg": "^6.1.0"
+  }
+}
